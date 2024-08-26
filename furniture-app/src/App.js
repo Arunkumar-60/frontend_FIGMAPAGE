@@ -4,7 +4,7 @@ import Navbar from './Navbar'; // Import the Navbar component
 import Doi from './Doi'
 import Section_2 from './Containers';
 import Image_description from './Imagedescription';
-import Con from './Con';
+import Container from './Container';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css'; // Import your App styles
 
