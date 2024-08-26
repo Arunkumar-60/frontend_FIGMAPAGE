@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Con() {
+function Container() {
     return (
         <div class="container-fluid d-flex justify-content-around flex-column p-2">
             <div  >
@@ -71,4 +71,4 @@ function Con() {
     )
 }
 
-export default Con;
+export default Container;
